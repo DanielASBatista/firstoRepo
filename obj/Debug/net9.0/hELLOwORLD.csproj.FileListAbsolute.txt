@@ -1,0 +1,14 @@
+D:\2DS - Daniel\DS\hELLOwORLD\bin\Debug\net9.0\hELLOwORLD.exe
+D:\2DS - Daniel\DS\hELLOwORLD\bin\Debug\net9.0\hELLOwORLD.deps.json
+D:\2DS - Daniel\DS\hELLOwORLD\bin\Debug\net9.0\hELLOwORLD.runtimeconfig.json
+D:\2DS - Daniel\DS\hELLOwORLD\bin\Debug\net9.0\hELLOwORLD.dll
+D:\2DS - Daniel\DS\hELLOwORLD\bin\Debug\net9.0\hELLOwORLD.pdb
+D:\2DS - Daniel\DS\hELLOwORLD\obj\Debug\net9.0\hELLOwORLD.GeneratedMSBuildEditorConfig.editorconfig
+D:\2DS - Daniel\DS\hELLOwORLD\obj\Debug\net9.0\hELLOwORLD.AssemblyInfoInputs.cache
+D:\2DS - Daniel\DS\hELLOwORLD\obj\Debug\net9.0\hELLOwORLD.AssemblyInfo.cs
+D:\2DS - Daniel\DS\hELLOwORLD\obj\Debug\net9.0\hELLOwORLD.csproj.CoreCompileInputs.cache
+D:\2DS - Daniel\DS\hELLOwORLD\obj\Debug\net9.0\hELLOwORLD.dll
+D:\2DS - Daniel\DS\hELLOwORLD\obj\Debug\net9.0\refint\hELLOwORLD.dll
+D:\2DS - Daniel\DS\hELLOwORLD\obj\Debug\net9.0\hELLOwORLD.pdb
+D:\2DS - Daniel\DS\hELLOwORLD\obj\Debug\net9.0\hELLOwORLD.genruntimeconfig.cache
+D:\2DS - Daniel\DS\hELLOwORLD\obj\Debug\net9.0\ref\hELLOwORLD.dll
